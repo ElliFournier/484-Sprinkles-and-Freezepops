@@ -4,7 +4,7 @@
         $db_user = "mlm1034";
         $db_pass = "mysqlpassword";
 <<<<<<< HEAD
-        $db_name = "mlm103940000";
+        $db_name = "mlm1039121340000";
 =======
         $db_name = "mlm10394343234";
 >>>>>>> 92d1e6ad0e03b9d3817d2930aaa812c0da0f4ff7
