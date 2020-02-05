@@ -3,7 +3,7 @@
         $db_host = "localhost";
         $db_user = "mlm1034";
         $db_pass = "mysqlpassword";
-        $db_name = "mlm1039411110000";
+        $db_name = "mlm1039411110033300";
 
         // Instantiate the mySQLi object
         ###->
