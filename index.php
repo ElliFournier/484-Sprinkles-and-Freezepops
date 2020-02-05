@@ -3,14 +3,9 @@
         $db_host = "localhost";
         $db_user = "mlm1034";
         $db_pass = "mysqlpassword";
-<<<<<<< HEAD
-<<<<<<< HEAD
-        $db_name = "mlm1039121340000";
-=======
         $db_name = "mlm10394343234";
->>>>>>> 92d1e6ad0e03b9d3817d2930aaa812c0da0f4ff7
 =======
-        $db_name = "mlm1039411110000";
+        $db_name = "mlm1039411111110000";
 
 >>>>>>> a238e5456d0554f9091ed1ddbfe94750165e7e60
         // Instantiate the mySQLi object
